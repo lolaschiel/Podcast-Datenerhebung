@@ -1,0 +1,135 @@
+id,name,type,medium,sex,ybirth,work,study,genre,oeffentlichprivat,year
+klheu,Klaas Heufer Umlauf,1,99,2,4,1,3,99,99,99
+jalun,Jakob Lundt,1,99,2,3,9,2,99,99,99
+thschm,Thomas Schmitt,1,99,2,5,9,2,99,99,99
+stbum,Studio Bummens,2,99,99,99,99,99,99,99,99
+flmbh,Florida Entertainment GmbH,2,99,99,99,99,99,99,99,99
+story,Starwatch Podcast Factory,2,99,99,99,99,99,99,99,99
+balin,Baywatch Berlin,2,6,99,99,99,99,1,99,5
+lalin,Late Night Berlin,2,6,99,99,99,99,1,99,99
+duelt,Duell um die Welt,2,6,99,99,99,99,1,99,99
+cilli,Circus Halligalli,2,6,99,99,99,99,1,99,99
+vimbh,Viva Media GmbH,2,6,99,99,99,99,99,99,99
+neise,NeoParadise,2,6,99,99,99,99,1,99,99
+mtome,MTV Home,2,6,99,99,99,99,99,99,99
+prben,Pro Sieben,2,6,99,99,99,99,99,2,99
+zdneo,ZDF Neo,2,6,99,99,99,99,1,99,99
+dielt,Die beste Show der Welt,2,6,99,99,99,99,1,99,99
+joben,Joko u Klaas gegen ProSieben,2,6,99,99,99,99,1,99,99
+neale,Neo Magazine Royale,2,6,99,99,99,99,1,99,99
+babie,Bastian Bielendorfer,1,99,2,4,4,3,99,99,99
+oesar,Özcan Cosar,1,99,2,4,5,3,99,99,99
+liava,1Live Bratwurst und Baklava,2,1,99,99,99,99,1,99,5
+elive,EinsLive,2,6,99,99,99,99,99,1,99
+hahow,Harald Schmid Show,2,6,99,99,99,99,1,99,99
+sky,Sky,2,6,99,99,99,99,99,2,99
+diehn,Die tierischen Zehn,2,6,99,99,99,99,99,99,99
+vox,Vox,2,6,99,99,99,99,99,2,99
+wiiso,Wissenmagazin Wiso,2,6,99,99,99,99,99,99,99
+eicks,EinsLive Hacks,2,6,99,99,99,99,99,99,99
+alsch,Alliteration am Arsch,2,1,99,99,99,99,1,99,4
+alnen,Alle gegen Einen,2,6,99,99,99,99,99,99,99
+biwdr,Bielendorfer im WDR,2,6,99,99,99,99,99,99,99
+wdr,WDR,2,6,99,99,99,99,99,1,99
+lence,Lets dance,2,6,99,99,99,99,99,99,99
+poehn,podcast null acht siebzehn,2,1,99,99,99,99,99,99,6
+rtl,RTL,2,6,99,99,99,99,99,2,99
+dihow,Die Cosar Show,2,6,99,99,99,99,99,99,99
+hobby,hobbylos,2,1,99,99,99,99,1,2,7
+rezo,rezo,1,99,2,2,9,3,99,99,99
+jubam,julien bam,1,99,2,3,9,3,99,99,99
+spstu,spotify studios,2,99,99,99,99,99,99,2,99
+youmc,you media consulting,2,99,99,99,99,99,99,2,99
+bggng,beginner gegen gewinner,2,6,99,99,99,99,99,2,99
+zapp,zapp,2,4,99,99,99,99,99,2,99
+ndr,ndr fernsehen,2,6,99,99,99,99,99,1,99
+zdf,ZDF,2,6,99,99,99,99,99,1,99
+precht,precht,2,6,99,99,99,99,99,1,99
+alges,alles gesagt,2,1,99,99,99,99,12,2,99
+satfr,sat eins fruestuecksfernsehen,2,6,99,99,99,99,99,2,99
+modan,masters of dance,2,6,99,99,99,99,99,2,99
+evere,everest ein yeti will hoch hinaus,2,6,99,99,99,99,99,2,99
+sonic,sonic the hedgehog,2,6,99,99,99,99,99,2,99
+thevk,the voice kids,2,6,99,99,99,99,99,2,99
+satei,sat eins,2,6,99,99,99,99,99,2,99
+jauar,jay und arya,2,1,99,99,99,99,1,2,5
+jasam,jay samuelz,1,99,2,99,9,3,99,99,99
+arlee,arya lee,1,99,2,99,9,3,99,99,99
+aini,ai ni /song,2,99,99,99,99,99,99,99,99
+saruec,Sabine Rückert,1,99,1,7,2,1,99,99,99
+ansen,Andreas Sentker,1,99,2,7,2,1,99,99,99
+zever,Zeit Verbrechen,2,1,99,99,99,99,3,2,4
+zeonl,ZEIT Online,2,5,99,99,99,99,99,2,99
+pakra,Paulina Krasa,1,99,1,3,2,1,99,99,99
+lawoh,Laura Wohlers,1,99,1,99,2,1,99,99,99
+molus,Mordlust,2,1,99,99,99,99,3,1,4
+vivie,Visa Vie,1,99,1,99,99,99,99,99,99
+inani,Ines Anioli,1,99,1,99,5,99,99,99,99
+wecri,Weird Crimes,1,1,99,99,99,99,3,1,99
+funk,FUNK,2,99,99,99,99,99,99,2,99
+wozei,Wochenzeitung DIE Zeit,2,5,99,99,99,99,99,2,99
+zewis,Zeit Wissen Magazin,2,4,99,99,99,99,99,99,99
+gehac,Gemischtes Hack,2,1,99,99,99,99,1,2,3
+felob,Felix Lobrecht,1,99,2,3,5,3,99,99,99
+thsch,Tommi Schmitt,1,99,2,3,1,1,99,99,99
+spoti,Spotify,2,99,99,99,99,99,99,99,99
+chuka,Chips und Kaviar,2,1,99,99,99,99,1,2,99
+podkin,Podkinski,2,1,99,99,99,99,1,2,5
+paroj,Palina Rojinski,1,99,1,4,1,1,99,99,99
+dedre,Deutschland3000,2,1,99,99,99,99,1,1,5
+nuacfu,815,2,1,99,99,99,99,1,2,6
+kiuco,Kino oder Couch,2,1,99,99,99,99,10,2,6
+homat,Hotel Matze,2,1,99,99,99,99,1,2,2
+apinf,Apokalypse und Filterkaffee,2,1,99,99,99,99,1,2,6
+luwoc,Luke Die Woche und Ich,2,6,99,99,99,99,99,2,99
+lumoc,Luke Mockridge,1,99,2,3,99,1,99,99,99
+stsch,Studio Schmitt,2,6,99,99,99,99,99,1,99
+stern,Stern,2,4,99,99,99,99,99,2,99
+runac,Ruhr Nachrichten,2,5,99,99,99,99,99,2,99
+elfre,11 Freunde,2,4,99,99,99,99,99,2,99
+wuerl,Wuerzburg erleben,2,5,99,99,99,99,99,2,99
+kocon,Koeln Comedy Nacht XXL,2,6,99,99,99,99,99,1,99
+cocha,Comedy Champions,2,6,99,99,99,99,99,2,99
+rtlii,RTL II,2,6,99,99,99,99,99,2,99
+nuhab,Nuhr ab 18,2,6,99,99,99,99,99,1,99
+dinuh,Dieter Nuhr,2,99,2,8,99,99,99,99,99
+saver,Satyr Verlag,2,99,99,99,99,99,99,99,99
+ulver,Ullstein Verlag,2,99,99,99,99,99,99,99,99
+neyot,New York Times,2,5,99,99,99,99,99,2,99
+didoo,Dick und Doof,2,1,99,99,99,99,1,2,5
+lusch,Luca Scharpenberg,1,99,2,2,6,1,99,99,99
+rhgel,Rheines Gelaber,2,1,99,99,99,99,99,99,99
+sasaf,Sandra Safiulov,1,99,1,1,6,3,99,99,99
+lucon,Luca ConCrafter,2,2,99,99,99,99,99,2,99
+stsie,Studio71 GmbH,2,99,99,99,99,99,99,99,99
+prsat,Pro7 Sat1. Media,2,99,99,99,99,99,99,99,99
+dacla,Das ist ja Classen,2,1,99,99,99,99,1,2,6
+bicla,Bianca Classen,1,99,1,2,6,3,99,99,99
+jucla,Julian Classen,1,99,2,2,6,3,99,99,99
+tvtot,TV Total,2,6,99,99,99,99,99,2,99
+klggr,Klein gegen Gross,2,6,99,99,99,99,99,1,99
+wewds,Wer weiss den sowas,2,6,99,99,99,99,99,1,99
+daqui,Das Quizduell,2,6,99,99,99,99,99,1,99
+straa,Stefan Raab,1,99,2,7,99,3,99,99,99
+wamus,Warner Music Group,2,99,99,99,99,99,99,99,99
+chotp,Check One Two Perfect GmbH,2,99,99,99,99,99,99,99,99
+tocoo,Thomas Cook Group,2,99,99,99,99,99,99,99,99
+timan,TiQuest Management GbR,2,99,99,99,99,99,99,99,99
+jopil,Joerg Pilawa,1,99,2,7,99,3,99,99,99
+daers,Das Erste,2,6,99,99,99,99,99,1,99
+kapfl,Kai Pflaume,1,99,2,7,99,3,99,99,99
+zeverma,Zeit Vebrechen Magazin,2,4,99,99,99,99,3,2,99
+sctag,Schwaebisches Tagblatt,2,5,99,99,99,99,2,2,99
+stzei,Stuttgarter Zeitung,2,5,99,99,99,99,2,2,99
+ditag,die tageszeitung,2,5,99,99,99,99,2,2,99
+zedoc,Zeit Doctor Magazin,2,4,99,99,99,99,99,2,99
+bild,BILD,2,5,99,99,99,99,2,2,99
+unpfa,Die Zeit – Unter Pfarrerstöchtern,2,1,99,99,99,99,10,2,99
+johab,Johanna Haberer,1,99,1,8,10,3,99,99,99
+skin,Skip Intro Podcast,2,1,99,99,99,99,10,1,99
+mezib,Magazinsendung Zibb,2,6,99,99,99,99,2,1,99
+rafri,Radiosender Fritz,2,3,99,99,99,99,2,1,99
+wwwoh,Youtubeshow World Wide Wohnzimmer,2,2,99,99,99,99,12,1,99
+brnex,Radiosender Bremen Next,2,3,99,99,99,99,2,1,99
+1live,Radiosender 1Live,2,3,99,99,99,99,2,1,99
+scusue,Schuld und Sühne Youtube,2,2,99,99,99,99,3,1,99
