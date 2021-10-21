@@ -1,0 +1,119 @@
+# Datensatz Podcasts
+Podcast Codebuch
+erstellt von Alisa Rathke (ar149@hdm-stuttgart.de), Lola Schiel (ls191@hdm-stuttgart.de), Laureta Nrecaj (ln030@hdm-stuttgart.de), Judith Hartmann (jh254@hdm-stuttgart.de)
+
+## Inhalt
+- Edges.csv (Edgelist)
+- Nodes.csv (Nodelist)
+- Codebuch.md (Codierung der Datensätze)
+
+## Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*.
+
+# EDGE-Attribute
+
+**id**  
+(eindeutige Codierung des Knoten)   
+Abkürzungen der Namen
+
+**weight**   
+1 = hat bei Projekt mitgewirkt (war z.B. Gast)
+2 = Gemeinsames Projekt
+3 = Mehrere gemeinsame Projekte
+
+**relation**
+
+1 = steht in variabler Verbindung zu (z.B. Gast oder ist Produktionsfirma)
+2 = angestellt/arbeitet bei (z.B. Redakteur bei Zeitung)
+3 = produziert (z.B. Moderator*in vom Podcast oder Chefredakteur)
+
+
+# NODE-Attribute  
+  
+**id**  
+Abkürzungen der Namen
+
+**name**
+Name oder Bezeichnung des Knotens
+
+**type**    
+Unterscheidung zwischen Akteur und Organisation
+1 = Akteur*in   
+2 = Organisation
+
+**medium**
+Definiert die Art der Organisation (type==2)
+1 = Podcast
+2 = Youtubekanal
+3 = Radiosender oder Radiosendung
+4 = Magazin
+5 = (Online-)Zeitung
+6 = TV-Sender oder TV-Sendung
+
+**sex**     
+Definiert das Geschlecht der Akteur*innen
+1 = weiblich  
+2 = männlich  
+3 = divers
+
+**ybirth**
+Geburtsjahr der Akteur*innen
+1 = 2003-1998
+2 = 1997-1992
+3 = 1991-1986
+4 = 1985-1980
+5 = 1979-1974
+6 = 1973-1968
+7 = 1967-1962
+8 = 1961-1956
+9 = 1954-1949
+
+**study**
+Abgeschlossene Ausbildung der Moderator*innen
+1 = Kommunikationsstudium (z.B. Journalismus oder Medienwissenschaften)
+2 = Ausbildung im Medienbereich
+3 = Quereinsteiger*in
+
+**work**   
+Beruf des/der Moderator*in
+1 = Moderator*in
+2 = Journalist*in
+3 = Schauspieler*in
+4 = Autor*in
+5 = Comedian*Comedienne
+6 = Selbstständige*r im Medienbereich  
+7 = Unternehmer*in im Medienbereich
+8 = Sänger*in
+9 = Video-/Fernseh-Produzent*in
+10 = Außerhalb des Medienbereichs
+
+**oeffentlichprivat**
+Definiert, ob das Medium öffentlich-rechtlich oder privat finanziert wird
+1 = öffentlich-rechtlich
+2 = privat
+
+**genre***     
+Definiert das Genre des Podcasts/der Show
+1 = Comedy  
+2 = Nachrichten und Politik
+3 = True Crime
+4 = Wissen
+5 = Lifestyle und Gesundheit
+6 = Business und Technologie
+7 = Sport und Freizeit
+8 = Gaming
+9 = Musik
+10 = Kultur
+11 = Hörspiele
+12 = Interviews, Kunst und Unterhaltung
+  
+**year**      
+Erscheinungsjahr des Podcasts
+1 = 2005-2015
+2 = 2016
+3 = 2017  
+4 = 2018  
+5 = 2019
+6 = 2020
+7 = 2021
+
+##
